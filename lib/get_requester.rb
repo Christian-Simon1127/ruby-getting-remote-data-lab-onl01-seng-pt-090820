@@ -5,3 +5,15 @@ require "json"
 
 
 
+class GetRequester
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+end
